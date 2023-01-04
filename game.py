@@ -24,7 +24,7 @@ SELECTED_TRACK = TRACK1 # Selected Track
 TRACK_NAME, INITIAL_POSITION, TRACK_LAPS = SELECTED_TRACK
 
 # Use previous genes
-LOAD_GENES = False
+LOAD_GENES = True
 GENES_FILE = 'genes.txt'
 
 # Screen
@@ -48,9 +48,9 @@ GENE_SIZE = (GENE_INPUTS, GENE_OUTPUTS)
 # Algorithm
 N_GENES = 100
 N_BEST_GENES = 50
-N_GENERATIONS = 500
+N_GENERATIONS = 20
 RANDOM_PROBABILITY = 0.05
-MUTATION_PROBABILITY = 0.20
+MUTATION_PROBABILITY = 0.02
 
 # Images
 TRACK = pygame.image.load("Assets/" + TRACK_NAME + ".png")
@@ -138,9 +138,7 @@ class AICar(Car):
         self.gene = gene
         self.score = 0.0
         self.lap = 0
-        self.movements = 0
         self.lap_movements = 0
-        self.distance = 0.0
         self.radars = []
         self.distances = []
 
@@ -179,25 +177,23 @@ class AICar(Car):
 
     def update(self):
         distance = super().update()
-        self.distance += distance
-        self.movements += 1
         self.lap_movements += 1
 
-        # if self.movements > 350: print("wtf", self.movements, self.position)
-
         # The first lap gives points to the further the car goes
-        if self.lap < 1: self.score = self.distance
+        if self.lap < 1: self.score += distance
 
         # After the first lap the goal is to make laps faster
         if SCREEN.get_at((int(self.position[0]), int(self.position[1]))) == FINISH_LINE_COLOR and self.lap_movements > 75:
             self.lap += 1
 
-            if self.lap >= 1: self.score = 5000 + (self.distance / self.movements) * 20 # Give more points to faster laps
+            if self.lap == 1: self.score = 5000
+
+            self.score += 1000 - self.lap_movements # Give more points to faster laps
 
             self.lap_movements = 0
 
             # If the car finishes the race
-            if self.lap == TRACK_LAPS: 
+            if self.lap == TRACK_LAPS:
                 self.score += 5000
                 self.alive = False
 
@@ -382,6 +378,7 @@ genes = create_genes()
 
 if LOAD_GENES: 
     loaded_genes = load_genes_from_file()
+    print("Loaded genes!")
     if len(loaded_genes) > 0: genes[:len(loaded_genes)] = [x[1] for x in loaded_genes]
 
 best_gene = None
