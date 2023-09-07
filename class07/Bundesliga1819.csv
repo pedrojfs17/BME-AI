@@ -1,0 +1,307 @@
+HomeTeam,AwayTeam,FTHG,FTAG
+Bayern Munich,Hoffenheim,3,1
+Fortuna Dusseldorf,Augsburg,1,2
+Freiburg,Ein Frankfurt,0,2
+Hertha,Nurnberg,1,0
+M'gladbach,Leverkusen,2,0
+Werder Bremen,Hannover,1,1
+Wolfsburg,Schalke 04,2,1
+Dortmund,RB Leipzig,4,1
+Mainz,Stuttgart,1,0
+Hannover,Dortmund,0,0
+Augsburg,M'gladbach,1,1
+Ein Frankfurt,Werder Bremen,1,2
+Hoffenheim,Freiburg,3,1
+Leverkusen,Wolfsburg,1,3
+Nurnberg,Mainz,1,1
+Stuttgart,Bayern Munich,0,3
+RB Leipzig,Fortuna Dusseldorf,1,1
+Schalke 04,Hertha,0,2
+Dortmund,Ein Frankfurt,3,1
+Bayern Munich,Leverkusen,3,1
+Fortuna Dusseldorf,Hoffenheim,2,1
+Mainz,Augsburg,2,1
+M'gladbach,Schalke 04,2,1
+RB Leipzig,Hannover,3,2
+Wolfsburg,Hertha,2,2
+Freiburg,Stuttgart,3,3
+Werder Bremen,Nurnberg,1,1
+Stuttgart,Fortuna Dusseldorf,0,0
+Augsburg,Werder Bremen,2,3
+Hertha,M'gladbach,4,2
+Hoffenheim,Dortmund,1,1
+Nurnberg,Hannover,2,0
+Schalke 04,Bayern Munich,0,2
+Wolfsburg,Freiburg,1,3
+Ein Frankfurt,RB Leipzig,1,1
+Leverkusen,Mainz,1,0
+Bayern Munich,Augsburg,1,1
+Freiburg,Schalke 04,1,0
+Hannover,Hoffenheim,1,3
+Werder Bremen,Hertha,3,1
+Dortmund,Nurnberg,7,0
+Fortuna Dusseldorf,Leverkusen,1,2
+Mainz,Wolfsburg,0,0
+M'gladbach,Ein Frankfurt,3,1
+RB Leipzig,Stuttgart,2,0
+Hertha,Bayern Munich,2,0
+Hoffenheim,RB Leipzig,1,2
+Leverkusen,Dortmund,2,4
+Nurnberg,Fortuna Dusseldorf,3,0
+Schalke 04,Mainz,1,0
+Stuttgart,Werder Bremen,2,1
+Wolfsburg,M'gladbach,2,2
+Augsburg,Freiburg,4,1
+Ein Frankfurt,Hannover,4,1
+Werder Bremen,Wolfsburg,2,0
+Bayern Munich,M'gladbach,0,3
+Dortmund,Augsburg,4,3
+Fortuna Dusseldorf,Schalke 04,0,2
+Hannover,Stuttgart,3,1
+Mainz,Hertha,0,0
+Freiburg,Leverkusen,0,0
+Hoffenheim,Ein Frankfurt,1,2
+RB Leipzig,Nurnberg,6,0
+Ein Frankfurt,Fortuna Dusseldorf,7,1
+Augsburg,RB Leipzig,0,0
+Leverkusen,Hannover,2,2
+Nurnberg,Hoffenheim,1,3
+Schalke 04,Werder Bremen,0,2
+Stuttgart,Dortmund,0,4
+Wolfsburg,Bayern Munich,1,3
+Hertha,Freiburg,1,1
+M'gladbach,Mainz,4,0
+Freiburg,M'gladbach,3,1
+Dortmund,Hertha,2,2
+Fortuna Dusseldorf,Wolfsburg,0,3
+Hannover,Augsburg,1,2
+Hoffenheim,Stuttgart,4,0
+Mainz,Bayern Munich,1,2
+Nurnberg,Ein Frankfurt,1,1
+RB Leipzig,Schalke 04,0,0
+Werder Bremen,Leverkusen,2,6
+Stuttgart,Ein Frankfurt,0,3
+Augsburg,Nurnberg,2,2
+Bayern Munich,Freiburg,1,1
+Hertha,RB Leipzig,0,3
+Leverkusen,Hoffenheim,1,4
+Schalke 04,Hannover,3,1
+Wolfsburg,Dortmund,0,1
+Mainz,Werder Bremen,2,1
+M'gladbach,Fortuna Dusseldorf,3,0
+Hannover,Wolfsburg,2,1
+Dortmund,Bayern Munich,3,2
+Fortuna Dusseldorf,Hertha,4,1
+Freiburg,Mainz,1,3
+Hoffenheim,Augsburg,2,1
+Nurnberg,Stuttgart,0,2
+Werder Bremen,M'gladbach,1,3
+Ein Frankfurt,Schalke 04,3,0
+RB Leipzig,Leverkusen,3,0
+Leverkusen,Stuttgart,2,0
+Augsburg,Ein Frankfurt,1,3
+Bayern Munich,Fortuna Dusseldorf,3,3
+Hertha,Hoffenheim,3,3
+Mainz,Dortmund,1,2
+Schalke 04,Nurnberg,5,2
+Wolfsburg,RB Leipzig,1,0
+Freiburg,Werder Bremen,1,1
+M'gladbach,Hannover,4,1
+Fortuna Dusseldorf,Mainz,0,1
+Dortmund,Freiburg,2,0
+Hannover,Hertha,0,2
+Hoffenheim,Schalke 04,1,1
+Stuttgart,Augsburg,1,0
+Werder Bremen,Bayern Munich,1,2
+Ein Frankfurt,Wolfsburg,1,2
+RB Leipzig,M'gladbach,2,0
+Nurnberg,Leverkusen,1,1
+Werder Bremen,Fortuna Dusseldorf,3,1
+Bayern Munich,Nurnberg,3,0
+Freiburg,RB Leipzig,3,0
+Hertha,Ein Frankfurt,1,0
+Leverkusen,Augsburg,1,0
+Schalke 04,Dortmund,1,2
+Wolfsburg,Hoffenheim,2,2
+Mainz,Hannover,1,1
+M'gladbach,Stuttgart,3,0
+Nurnberg,Wolfsburg,0,2
+Augsburg,Schalke 04,1,1
+Dortmund,Werder Bremen,2,1
+Fortuna Dusseldorf,Freiburg,2,0
+Hannover,Bayern Munich,0,4
+Hoffenheim,M'gladbach,0,0
+Stuttgart,Hertha,2,1
+Ein Frankfurt,Leverkusen,2,1
+RB Leipzig,Mainz,4,1
+Fortuna Dusseldorf,Dortmund,2,1
+Hertha,Augsburg,2,2
+M'gladbach,Nurnberg,2,0
+Wolfsburg,Stuttgart,2,0
+Bayern Munich,RB Leipzig,1,0
+Freiburg,Hannover,1,1
+Mainz,Ein Frankfurt,2,2
+Schalke 04,Leverkusen,1,2
+Werder Bremen,Hoffenheim,1,1
+Dortmund,M'gladbach,2,1
+Ein Frankfurt,Bayern Munich,0,3
+Hannover,Fortuna Dusseldorf,0,1
+Leverkusen,Hertha,3,1
+Nurnberg,Freiburg,0,1
+RB Leipzig,Werder Bremen,3,2
+Stuttgart,Schalke 04,1,3
+Augsburg,Wolfsburg,2,3
+Hoffenheim,Mainz,1,1
+Hoffenheim,Bayern Munich,1,3
+Augsburg,Fortuna Dusseldorf,1,2
+Ein Frankfurt,Freiburg,3,1
+Hannover,Werder Bremen,0,1
+Leverkusen,M'gladbach,0,1
+RB Leipzig,Dortmund,0,1
+Stuttgart,Mainz,2,3
+Nurnberg,Hertha,1,3
+Schalke 04,Wolfsburg,2,1
+Hertha,Schalke 04,2,2
+Dortmund,Hannover,5,1
+Freiburg,Hoffenheim,2,4
+Mainz,Nurnberg,2,1
+M'gladbach,Augsburg,2,0
+Werder Bremen,Ein Frankfurt,2,2
+Wolfsburg,Leverkusen,0,3
+Bayern Munich,Stuttgart,4,1
+Fortuna Dusseldorf,RB Leipzig,0,4
+Hannover,RB Leipzig,0,3
+Ein Frankfurt,Dortmund,1,1
+Hertha,Wolfsburg,0,1
+Hoffenheim,Fortuna Dusseldorf,1,1
+Leverkusen,Bayern Munich,3,1
+Nurnberg,Werder Bremen,1,1
+Schalke 04,M'gladbach,0,2
+Augsburg,Mainz,3,0
+Stuttgart,Freiburg,2,2
+Mainz,Leverkusen,1,5
+Bayern Munich,Schalke 04,3,1
+Dortmund,Hoffenheim,3,3
+Freiburg,Wolfsburg,3,3
+Hannover,Nurnberg,2,0
+M'gladbach,Hertha,0,3
+RB Leipzig,Ein Frankfurt,0,0
+Fortuna Dusseldorf,Stuttgart,3,0
+Werder Bremen,Augsburg,4,0
+Augsburg,Bayern Munich,2,3
+Hertha,Werder Bremen,1,1
+Hoffenheim,Hannover,3,0
+Schalke 04,Freiburg,0,0
+Stuttgart,RB Leipzig,1,3
+Wolfsburg,Mainz,3,0
+Ein Frankfurt,M'gladbach,1,1
+Leverkusen,Fortuna Dusseldorf,2,0
+Nurnberg,Dortmund,0,0
+Werder Bremen,Stuttgart,1,1
+Bayern Munich,Hertha,1,0
+Fortuna Dusseldorf,Nurnberg,2,1
+Freiburg,Augsburg,5,1
+Mainz,Schalke 04,3,0
+M'gladbach,Wolfsburg,0,3
+Dortmund,Leverkusen,3,2
+Hannover,Ein Frankfurt,0,3
+RB Leipzig,Hoffenheim,1,1
+Augsburg,Dortmund,2,1
+Ein Frankfurt,Hoffenheim,3,2
+Hertha,Mainz,2,1
+Leverkusen,Freiburg,2,0
+M'gladbach,Bayern Munich,1,5
+Nurnberg,RB Leipzig,0,1
+Schalke 04,Fortuna Dusseldorf,0,4
+Stuttgart,Hannover,5,1
+Wolfsburg,Werder Bremen,1,1
+Werder Bremen,Schalke 04,4,2
+Bayern Munich,Wolfsburg,6,0
+Dortmund,Stuttgart,3,1
+Freiburg,Hertha,2,1
+Mainz,M'gladbach,0,1
+RB Leipzig,Augsburg,0,0
+Hannover,Leverkusen,2,3
+Hoffenheim,Nurnberg,2,1
+Fortuna Dusseldorf,Ein Frankfurt,0,3
+M'gladbach,Freiburg,1,1
+Augsburg,Hannover,3,1
+Hertha,Dortmund,2,3
+Schalke 04,RB Leipzig,0,1
+Stuttgart,Hoffenheim,1,1
+Wolfsburg,Fortuna Dusseldorf,5,2
+Bayern Munich,Mainz,6,0
+Ein Frankfurt,Nurnberg,1,0
+Leverkusen,Werder Bremen,1,3
+Hoffenheim,Leverkusen,4,1
+Dortmund,Wolfsburg,2,0
+Fortuna Dusseldorf,M'gladbach,3,1
+Freiburg,Bayern Munich,1,1
+Nurnberg,Augsburg,3,0
+RB Leipzig,Hertha,5,0
+Werder Bremen,Mainz,3,1
+Ein Frankfurt,Stuttgart,3,0
+Hannover,Schalke 04,0,1
+Mainz,Freiburg,5,0
+Bayern Munich,Dortmund,5,0
+Hertha,Fortuna Dusseldorf,1,2
+Leverkusen,RB Leipzig,2,4
+Schalke 04,Ein Frankfurt,1,2
+Stuttgart,Nurnberg,1,1
+Wolfsburg,Hannover,3,1
+Augsburg,Hoffenheim,0,4
+M'gladbach,Werder Bremen,1,1
+Nurnberg,Schalke 04,1,1
+Dortmund,Mainz,2,1
+Hannover,M'gladbach,0,1
+RB Leipzig,Wolfsburg,2,0
+Stuttgart,Leverkusen,0,1
+Werder Bremen,Freiburg,2,1
+Ein Frankfurt,Augsburg,1,3
+Fortuna Dusseldorf,Bayern Munich,1,4
+Hoffenheim,Hertha,2,0
+Augsburg,Stuttgart,6,0
+Bayern Munich,Werder Bremen,1,0
+Leverkusen,Nurnberg,2,0
+Mainz,Fortuna Dusseldorf,3,1
+M'gladbach,RB Leipzig,1,2
+Schalke 04,Hoffenheim,2,5
+Freiburg,Dortmund,0,4
+Hertha,Hannover,0,0
+Wolfsburg,Ein Frankfurt,1,1
+Augsburg,Leverkusen,1,4
+Dortmund,Schalke 04,2,4
+Ein Frankfurt,Hertha,0,0
+Fortuna Dusseldorf,Werder Bremen,4,1
+Hannover,Mainz,1,0
+RB Leipzig,Freiburg,2,1
+Stuttgart,M'gladbach,1,0
+Hoffenheim,Wolfsburg,1,4
+Nurnberg,Bayern Munich,1,1
+Mainz,RB Leipzig,3,3
+Bayern Munich,Hannover,3,1
+Hertha,Stuttgart,3,1
+M'gladbach,Hoffenheim,2,2
+Werder Bremen,Dortmund,2,2
+Wolfsburg,Nurnberg,2,0
+Freiburg,Fortuna Dusseldorf,1,1
+Leverkusen,Ein Frankfurt,6,1
+Schalke 04,Augsburg,0,0
+Augsburg,Hertha,3,4
+Dortmund,Fortuna Dusseldorf,3,2
+Hannover,Freiburg,3,0
+Hoffenheim,Werder Bremen,0,1
+Leverkusen,Schalke 04,1,1
+Nurnberg,M'gladbach,0,4
+RB Leipzig,Bayern Munich,0,0
+Stuttgart,Wolfsburg,3,0
+Ein Frankfurt,Mainz,0,2
+Bayern Munich,Ein Frankfurt,5,1
+Fortuna Dusseldorf,Hannover,2,1
+Freiburg,Nurnberg,5,1
+Hertha,Leverkusen,1,5
+Mainz,Hoffenheim,4,2
+M'gladbach,Dortmund,0,2
+Schalke 04,Stuttgart,0,0
+Werder Bremen,RB Leipzig,2,1
+Wolfsburg,Augsburg,8,1
